@@ -108,7 +108,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Commit a file</h2></summary>
 
 _You created a branch! :tada:_
@@ -161,7 +161,7 @@ The following steps will guide you through the process of committing a change on
   and that the file was named correctly.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Open a pull request</h2></summary>
 
 _Nice work making that commit! :sparkles:_
